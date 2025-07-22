@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I’m Swati Nugula, a passionate and results-driven software developer with a strong foundation in computer science and a keen interest in building robust and scalable applications. 🎯
+Hi there! 👋 I’m Nugula Swati, a passionate and results-driven software developer with a strong foundation in computer science and a keen interest in building robust and scalable applications. 🎯
 
 🔍 What I do:
 
